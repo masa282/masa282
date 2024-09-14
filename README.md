@@ -21,5 +21,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+![](https://raw.githubusercontent.com/masa282/masa282/output/github-contribution-grid-snake.svg)
+
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masa282&theme=gruvbox)
