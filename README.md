@@ -24,15 +24,20 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa282&layout=compact&hide=jupyter%20notebook,html,makefile,css)](https://github.com/masa282/github-readme-stats)
+
+
 ## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
+
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
