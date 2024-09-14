@@ -19,6 +19,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/masa282">
     <img height="20" src="https://komarev.com/ghpvc/?username=masa282" />
   </a>
+  <a href="https://github.com/masa282">
+    <img height="20" src="https://img.shields.io/github/followers/masa282label=follow&logo=github&style=flat" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/1950836">
+    <img height="20" src="https://img.shields.io/github/followers/masa282label=follow&logo=github&style=flat" />
+  </a>
 </p>
 
 ![](https://raw.githubusercontent.com/masa282/mlbot-btc/output/github-contribution-grid-snake.svg)
