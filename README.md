@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![](https://raw.githubusercontent.com/masa282/bitcoin/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/masa282/mlbot-btc/output/github-contribution-grid-snake.svg)
 
 
 ## Stats
