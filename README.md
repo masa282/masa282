@@ -20,3 +20,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://komarev.com/ghpvc/?username=masa282" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masa282&theme=gruvbox)
