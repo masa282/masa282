@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa282&layout=compact&hide=jupyter%20notebook,html,makefile,css)](https://github.com/masa282/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa282&layout=compact&hide=jupyter%20notebook,html,makefile,css&theme=dark)](https://github.com/masa282/github-readme-stats)
 
 
 ## 🔧 Tech Stack
