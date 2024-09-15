@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **masa282/masa282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa282&layout=compact&hide=jupyter%20notebook,html,makefile,css&theme=dark)](https://github.com/masa282/github-readme-stats)
 
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-0069b3?logo=langchain&logoColor=white)
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 
-## 📈 Stats
+### 📈 Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masa282&theme=gruvbox)
 
 
