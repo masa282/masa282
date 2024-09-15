@@ -41,19 +41,17 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 
-
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/-MLFlow-0194E2?logo=mlflow&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
-
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
+![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black)
 
 
 ### 📈 Stats
