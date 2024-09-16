@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ### 🔧 Tech Stack
 
+![Langchain](https://img.shields.io/badge/-Langchain-0069b3?logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Langchain](https://img.shields.io/badge/-Langchain-0069b3?logo=langchain&logoColor=white)
 ![Asyncio](https://img.shields.io/badge/-Asyncio-009688?logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?logo=huggingface&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
