@@ -41,9 +41,8 @@ Here are some ideas to get you started:
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
-
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
