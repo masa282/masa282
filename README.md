@@ -53,7 +53,11 @@ Here are some ideas to get you started:
 
 
 ![C](https://img.shields.io/badge/-C-00599C?logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white)
+
+
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)
